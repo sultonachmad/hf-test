@@ -1,0 +1,9 @@
+langgraph
+langchain_openai
+python-dotenv
+langfuse
+langchain-community
+rank_bm25
+datasets
+huggingface_hub
+ddgs
